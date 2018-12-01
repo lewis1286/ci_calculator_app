@@ -17,3 +17,9 @@ def subtract(first, second):
 
     """
     return first - second
+
+
+def multiply(arg1, arg2):
+    """TODO: Docstring for multiply.
+    """
+    return arg1 * arg2
