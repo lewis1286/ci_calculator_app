@@ -12,4 +12,3 @@ class TestCalculator:
 
     def test_subtraction(self):
         assert calculator.subtract(4, 2) == 2
-
